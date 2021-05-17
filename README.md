@@ -1,6 +1,6 @@
 ### ✨ Hello! ✨
 
-![galaxies in a variational autoencoder](.images/vae.gif)]
+![galaxies in a variational autoencoder](./images/vae.gif)
 
 My name is John, and I study how galaxies form and grow by using telescope observations 🔭 and machine learning 🖥️ techniques. Although I enjoy learning about galaxies, both near and far, I've recently become very fascinated by dwarf galaxies. I also like to stay up to date on deep learning research, particularly computer vision 🤖. Here's some of the recent stuff I've been up to:
 
